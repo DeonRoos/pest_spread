@@ -5,8 +5,9 @@ account: deonroos
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 14722047
-bundleId: 10257710
+bundleId: 10301894
 url: https://deonroos.shinyapps.io/pest_spread/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: data/extract.R|scripts/deploy.R|www/js/geolocation.js
